@@ -69,16 +69,3 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=LandgeRushikesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=LandgeRushikesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=LandgeRushikesh&icon=0&color=0)
