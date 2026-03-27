@@ -57,6 +57,8 @@
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RushiLandge22)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=rocket&logoColor=white)](https://rushilandge.netlify.app/)
+
 ---
 
 # 📊 GitHub Stats
